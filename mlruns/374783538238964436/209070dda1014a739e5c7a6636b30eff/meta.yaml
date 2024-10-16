@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlops/krish_course/ann-restapi/mlruns/374783538238964436/209070dda1014a739e5c7a6636b30eff/artifacts
+end_time: 1729043823741
+entry_point_name: ''
+experiment_id: '374783538238964436'
+lifecycle_stage: active
+run_id: 209070dda1014a739e5c7a6636b30eff
+run_name: legendary-stoat-429
+run_uuid: 209070dda1014a739e5c7a6636b30eff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729043812391
+status: 3
+tags: []
+user_id: kevin

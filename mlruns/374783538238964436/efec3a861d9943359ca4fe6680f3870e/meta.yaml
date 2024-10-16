@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlops/krish_course/ann-restapi/mlruns/374783538238964436/efec3a861d9943359ca4fe6680f3870e/artifacts
+end_time: 1729043830433
+entry_point_name: ''
+experiment_id: '374783538238964436'
+lifecycle_stage: active
+run_id: efec3a861d9943359ca4fe6680f3870e
+run_name: likeable-seal-448
+run_uuid: efec3a861d9943359ca4fe6680f3870e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729043823766
+status: 3
+tags: []
+user_id: kevin

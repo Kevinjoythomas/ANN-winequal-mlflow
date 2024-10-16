@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlops/krish_course/ann-restapi/mlruns/374783538238964436/60982e927fe941e89fb88f6ebb48408a/artifacts
+end_time: 1729043521762
+entry_point_name: ''
+experiment_id: '374783538238964436'
+lifecycle_stage: active
+run_id: 60982e927fe941e89fb88f6ebb48408a
+run_name: tasteful-horse-510
+run_uuid: 60982e927fe941e89fb88f6ebb48408a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729043520748
+status: 4
+tags: []
+user_id: kevin

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729044119187
+current_stage: None
+description: ''
+last_updated_timestamp: 1729044119187
+name: final
+run_id: 31e095f3c45941d790b0fe6159f28fc0
+run_link: ''
+source: file:///c:/mlops/krish_course/ann-restapi/mlruns/374783538238964436/31e095f3c45941d790b0fe6159f28fc0/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/mlops/krish_course/ann-restapi/mlruns/374783538238964436/31e095f3c45941d790b0fe6159f28fc0/artifacts/model
+user_id: null
+version: 1

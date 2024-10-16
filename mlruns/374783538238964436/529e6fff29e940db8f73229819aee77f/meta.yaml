@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlops/krish_course/ann-restapi/mlruns/374783538238964436/529e6fff29e940db8f73229819aee77f/artifacts
+end_time: 1729043904856
+entry_point_name: ''
+experiment_id: '374783538238964436'
+lifecycle_stage: active
+run_id: 529e6fff29e940db8f73229819aee77f
+run_name: delicate-boar-262
+run_uuid: 529e6fff29e940db8f73229819aee77f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729043897516
+status: 3
+tags: []
+user_id: kevin

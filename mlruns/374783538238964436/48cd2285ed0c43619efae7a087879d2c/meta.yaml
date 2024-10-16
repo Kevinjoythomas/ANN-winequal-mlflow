@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlops/krish_course/ann-restapi/mlruns/374783538238964436/48cd2285ed0c43619efae7a087879d2c/artifacts
+end_time: 1729043024428
+entry_point_name: ''
+experiment_id: '374783538238964436'
+lifecycle_stage: active
+run_id: 48cd2285ed0c43619efae7a087879d2c
+run_name: glamorous-fish-773
+run_uuid: 48cd2285ed0c43619efae7a087879d2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729043022534
+status: 4
+tags: []
+user_id: kevin

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlops/krish_course/ann-restapi/mlruns/374783538238964436/a4551550d7024e06a46f6ddf248883db/artifacts
+end_time: 1729043930683
+entry_point_name: ''
+experiment_id: '374783538238964436'
+lifecycle_stage: active
+run_id: a4551550d7024e06a46f6ddf248883db
+run_name: fortunate-moth-861
+run_uuid: a4551550d7024e06a46f6ddf248883db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729043897426
+status: 3
+tags: []
+user_id: kevin

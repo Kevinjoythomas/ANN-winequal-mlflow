@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlops/krish_course/ann-restapi/mlruns/374783538238964436/a6dbe15ed5c94990ac2d004ac5ee2ad5/artifacts
+end_time: 1729043892908
+entry_point_name: ''
+experiment_id: '374783538238964436'
+lifecycle_stage: active
+run_id: a6dbe15ed5c94990ac2d004ac5ee2ad5
+run_name: likeable-whale-794
+run_uuid: a6dbe15ed5c94990ac2d004ac5ee2ad5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729043885921
+status: 4
+tags: []
+user_id: kevin

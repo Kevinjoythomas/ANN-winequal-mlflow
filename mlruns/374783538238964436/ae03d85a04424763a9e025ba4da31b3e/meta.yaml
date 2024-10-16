@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlops/krish_course/ann-restapi/mlruns/374783538238964436/ae03d85a04424763a9e025ba4da31b3e/artifacts
+end_time: 1729043511518
+entry_point_name: ''
+experiment_id: '374783538238964436'
+lifecycle_stage: active
+run_id: ae03d85a04424763a9e025ba4da31b3e
+run_name: gregarious-yak-519
+run_uuid: ae03d85a04424763a9e025ba4da31b3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729043509913
+status: 4
+tags: []
+user_id: kevin

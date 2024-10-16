@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlops/krish_course/ann-restapi/mlruns/374783538238964436/8987214b56d946e3b765f34cb4226d61/artifacts
+end_time: 1729043919065
+entry_point_name: ''
+experiment_id: '374783538238964436'
+lifecycle_stage: active
+run_id: 8987214b56d946e3b765f34cb4226d61
+run_name: worried-fox-336
+run_uuid: 8987214b56d946e3b765f34cb4226d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729043912171
+status: 3
+tags: []
+user_id: kevin

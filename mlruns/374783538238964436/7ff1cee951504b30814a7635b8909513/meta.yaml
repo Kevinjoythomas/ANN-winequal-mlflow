@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlops/krish_course/ann-restapi/mlruns/374783538238964436/7ff1cee951504b30814a7635b8909513/artifacts
+end_time: 1729042972231
+entry_point_name: ''
+experiment_id: '374783538238964436'
+lifecycle_stage: active
+run_id: 7ff1cee951504b30814a7635b8909513
+run_name: sassy-kit-566
+run_uuid: 7ff1cee951504b30814a7635b8909513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729042972159
+status: 4
+tags: []
+user_id: kevin

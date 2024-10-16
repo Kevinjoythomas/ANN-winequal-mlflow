@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlops/krish_course/ann-restapi/mlruns/374783538238964436/31e095f3c45941d790b0fe6159f28fc0/artifacts
+end_time: 1729043925352
+entry_point_name: ''
+experiment_id: '374783538238964436'
+lifecycle_stage: active
+run_id: 31e095f3c45941d790b0fe6159f28fc0
+run_name: upset-skunk-975
+run_uuid: 31e095f3c45941d790b0fe6159f28fc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729043919087
+status: 3
+tags: []
+user_id: kevin

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlops/krish_course/ann-restapi/mlruns/374783538238964436/523fd8dc6f2446289f173ae3f61e0663/artifacts
+end_time: 1729043912150
+entry_point_name: ''
+experiment_id: '374783538238964436'
+lifecycle_stage: active
+run_id: 523fd8dc6f2446289f173ae3f61e0663
+run_name: bold-lamb-624
+run_uuid: 523fd8dc6f2446289f173ae3f61e0663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729043904882
+status: 3
+tags: []
+user_id: kevin

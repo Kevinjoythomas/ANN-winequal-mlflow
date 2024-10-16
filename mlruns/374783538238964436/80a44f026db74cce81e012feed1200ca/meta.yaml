@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/mlops/krish_course/ann-restapi/mlruns/374783538238964436/80a44f026db74cce81e012feed1200ca/artifacts
+end_time: 1729043843922
+entry_point_name: ''
+experiment_id: '374783538238964436'
+lifecycle_stage: active
+run_id: 80a44f026db74cce81e012feed1200ca
+run_name: chill-fish-916
+run_uuid: 80a44f026db74cce81e012feed1200ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729043837367
+status: 3
+tags: []
+user_id: kevin
